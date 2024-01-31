@@ -1,4 +1,6 @@
 # OpenTofu
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fadizam%2Fopentofu.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fadizam%2Fopentofu?ref=badge_shield)
+
 
 - [Manifesto](https://opentofu.org/manifesto)
 - [About the OpenTofu fork](https://opentofu.org/fork)
@@ -35,3 +37,6 @@ If you've found a vulnerability or a potential vulnerability in OpenTofu please 
 ## License
 
 [Mozilla Public License v2.0](https://github.com/opentofu/opentofu/blob/main/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fadizam%2Fopentofu.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fadizam%2Fopentofu?ref=badge_large)
